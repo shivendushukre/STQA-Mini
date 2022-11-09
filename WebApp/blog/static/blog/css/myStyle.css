@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    font-weight: 300;
+    background-color: grey;
+}
+
+.card {
+    margin: 1em;
+}
